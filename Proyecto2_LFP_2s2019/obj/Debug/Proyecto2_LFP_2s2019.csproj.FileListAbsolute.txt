@@ -1,0 +1,9 @@
+C:\Users\Rau\source\repos\Proyecto2_LFP_2s2019\Proyecto2_LFP_2s2019\bin\Debug\Proyecto2_LFP_2s2019.exe.config
+C:\Users\Rau\source\repos\Proyecto2_LFP_2s2019\Proyecto2_LFP_2s2019\bin\Debug\Proyecto2_LFP_2s2019.exe
+C:\Users\Rau\source\repos\Proyecto2_LFP_2s2019\Proyecto2_LFP_2s2019\bin\Debug\Proyecto2_LFP_2s2019.pdb
+C:\Users\Rau\source\repos\Proyecto2_LFP_2s2019\Proyecto2_LFP_2s2019\obj\Debug\Proyecto2_LFP_2s2019.csprojAssemblyReference.cache
+C:\Users\Rau\source\repos\Proyecto2_LFP_2s2019\Proyecto2_LFP_2s2019\obj\Debug\Proyecto2_LFP_2s2019.Form1.resources
+C:\Users\Rau\source\repos\Proyecto2_LFP_2s2019\Proyecto2_LFP_2s2019\obj\Debug\Proyecto2_LFP_2s2019.Properties.Resources.resources
+C:\Users\Rau\source\repos\Proyecto2_LFP_2s2019\Proyecto2_LFP_2s2019\obj\Debug\Proyecto2_LFP_2s2019.csproj.GenerateResource.cache
+C:\Users\Rau\source\repos\Proyecto2_LFP_2s2019\Proyecto2_LFP_2s2019\obj\Debug\Proyecto2_LFP_2s2019.exe
+C:\Users\Rau\source\repos\Proyecto2_LFP_2s2019\Proyecto2_LFP_2s2019\obj\Debug\Proyecto2_LFP_2s2019.pdb
